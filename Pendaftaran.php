@@ -91,12 +91,12 @@ FORMULIR PENDAFTARAN
 		<td><input type="text" name="jumlah_saudara"  size="15"></td>
 	</tr>
 	<tr>
-		<td>Alamat</td>
+		<td>Alamathindun</td>
 		<td>:</td>
 		<td><input type="text" name="alamat"  size="30"></td>
-	</tr>
+	</tr> 
 	<tr>
-		<td>Nama Ayah</td>
+		<td>Nama Ayahhindun</td>
 		<td>:</td>
 		<td><input type="text" name="nama_ayah"  size="15"></td>
 	</tr>
