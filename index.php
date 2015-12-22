@@ -55,7 +55,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 						<label for="inputtext2">Password:</label>
 						<input type="password" name="password"/>
 						<input id="inputsubmit1" type="submit" name="inputsubmit1" value="Sign In" />
-						<p><a href="#">Lupa password?</a></p>
 						</fieldset>
 					</form>
 				<?php
